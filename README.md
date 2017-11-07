@@ -7,3 +7,23 @@ This README file lists regex (regular expressions) to match social media profile
 `^(http(s)?:\/\/)?([\w]+\.)?linkedin\.com\/(in|profile|pub)\/([A-z 0-9 _ -]+)\/?`
 
 RegEx for public URLs.
+
+TODO:
+GitHub
+Facebook
+Twitter
+Instagram
+Dribbble
+Spotify
+Skype
+SoundCloud
+Google Plus
+Telegram
+Phone numbers
+Medium
+YouTube
+StackOverflow
+Vimeo
+Reddit
+Keybase
+Pinterest
