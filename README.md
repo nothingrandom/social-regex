@@ -9,21 +9,20 @@ This README file lists regex (regular expressions) to match social media profile
 RegEx for public URLs.
 
 TODO:
-GitHub
-Facebook
-Twitter
-Instagram
-Dribbble
-Spotify
-Skype
-SoundCloud
-Google Plus
-Telegram
-Phone numbers
-Medium
-YouTube
-StackOverflow
-Vimeo
-Reddit
-Keybase
-Pinterest
+- Facebook
+- Instagram
+- Dribbble
+- Spotify
+- Skype
+- SoundCloud
+- Google Plus
+- Telegram
+- Phone numbers
+- Email
+- Medium
+- YouTube
+- StackOverflow
+- Vimeo
+- Reddit
+- Keybase
+- Pinterest
