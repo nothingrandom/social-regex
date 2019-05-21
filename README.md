@@ -27,14 +27,14 @@ Rules:
 
 ## Instagram
 ### Usernames
-`^((http(s)?)?:\/\/?(www\.)?)?instagram\.com\/([A-Za-z0-9_](?:(?:[A-Za-z0-9_]|(?:\.(?!\.))){0,28}(?:[A-Za-z0-9_]))?)\/?$`
+`^(http(s)?:\/\/)?(www\.)?instagram\.com\/([A-Za-z0-9_](?:(?:[A-Za-z0-9_]|(?:\.(?!\.))){0,28}(?:[A-Za-z0-9_]))?)\/?$`
 
 Rules:
 - Max 30 alphanumerical characters
 - Underscores
 - Periods are allowed in singles (. not ..), username cannot start or end with one
 
-[regex101 example](https://regex101.com/r/GaJdb9/5)
+[regex101 example](https://regex101.com/r/GaJdb9/6)
 
 ## Linkedin
 ### Public URLS
